@@ -1,0 +1,10 @@
+body {
+    font-size: 200%;
+    background: gray;
+}
+li {
+    padding: 1em;
+}
+button {
+    font-size: 150%;
+}
