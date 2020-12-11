@@ -8,3 +8,5 @@ the UI can be refined (see [bug 1079333](https://bugs.chromium.org/p/chromium/is
 and it's not necessarily working in the latest versions of Chromium or other
 browsers. Please check the official [IPFS website](https://ipfs.io/#install)
 for official solutions working with current browsers.
+
+Video: https://vimeo.com/489748722
