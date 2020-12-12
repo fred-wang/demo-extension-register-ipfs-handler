@@ -1,0 +1,10 @@
+{
+    "name": "register-ipfs-protocol",
+    "description" : "Register a HTTP gateway for IPFS",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_title": "Open registration tab",
+        "default_popup": "popup.html"
+    }
+}
